@@ -4,8 +4,6 @@ An interactive fiction about the endometriosis diagnostic journey
 
 
 
-![Storyline](/Storyline.jpg)
-
 
 This is the Ink version of the game. 
 
